@@ -1,0 +1,6 @@
+{
+  "name": "Kural Voice",
+  "description": "Natural text-to-speech for Tamil paragraphs with high-quality audio downloads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
